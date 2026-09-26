@@ -17,9 +17,9 @@
 
 | Project | Tech Stack | Link |
 |---|---|---|
-| Digital Wallet app | Java, Spring Boot, Postgres, RabbitMq, JWT | [GitHub]([https://github.com/rahulmulik9](https://github.com/rahulmulik9/DigitalWalletApp.git)) |
+| Digital Wallet app | Java, Spring Boot, Postgres, RabbitMq, JWT | [GitHub](https://github.com/rahulmulik9](https://github.com/rahulmulik9/DigitalWalletApp.git) |
 | E-Commerce Platform | Java, Spring Boot, React, MySQL, OAuth | [GitHub](https://github.com/rahulmulik9/Ecommerce_WebApp) |
-| Ticket booking app | Java, Spring Boot, Postgres,JWT, Microservices, RabbitMq, Spring Security | [GitHub](https://github.com/rahulmulik9/Bank_WebApp) |
+| Ticket booking app | Java, Spring Boot, Postgres,JWT, Microservices, RabbitMq, Spring Security | [GitHub](https://github.com/rahulmulik9/Ticket-Booking.git) |
 
 ---
 
