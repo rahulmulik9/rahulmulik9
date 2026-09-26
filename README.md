@@ -17,7 +17,7 @@
 
 | Project | Tech Stack | Link |
 |---|---|---|
-| Cricket Tournament Manager | Java, Spring Boot, MySQL, Redis, JWT | [GitHub](https://github.com/rahulmulik9) |
+| Cricket Tournament Manager | Java, Spring Boot, MySQL, Redis, JWT | [GitHub]([https://github.com/rahulmulik9](https://github.com/rahulmulik9/DigitalWalletApp.git)) |
 | E-Commerce Platform | Java, Spring Boot, React, MySQL, OAuth | [GitHub](https://github.com/rahulmulik9/Ecommerce_WebApp) |
 | Bank Application | Java, Spring Boot, Angular, Spring Security | [GitHub](https://github.com/rahulmulik9/Bank_WebApp) |
 
